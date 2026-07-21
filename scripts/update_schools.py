@@ -1,5 +1,6 @@
 import csv
 import json
+import time
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -15,11 +16,22 @@ params = {
     "f": "json",
 }
 url = f"{SOURCE_URL}?{urllib.parse.urlencode(params)}"
-request = urllib.request.Request(url, headers={"User-Agent": "MiamiSchoolsMap/1.0"})
 
-with urllib.request.urlopen(request, timeout=60) as response:
-    payload = json.load(response)
+payload = None
+last_error = None
+for attempt in range(3):
+    try:
+        request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 MiamiSchoolsMap/1.0"})
+        with urllib.request.urlopen(request, timeout=90) as response:
+            payload = json.load(response)
+        break
+    except Exception as error:
+        last_error = error
+        if attempt < 2:
+            time.sleep(5 * (attempt + 1))
 
+if payload is None:
+    raise RuntimeError(f"Unable to download school data: {last_error}")
 if "error" in payload:
     raise RuntimeError(payload["error"])
 
@@ -57,6 +69,9 @@ for feature in payload.get("features", []):
         "longitude": longitude,
         "source_url": SOURCE_URL,
     })
+
+if not rows:
+    raise RuntimeError("The ArcGIS service returned no schools")
 
 rows.sort(key=lambda row: (str(row["name"]).lower(), str(row["id"])))
 
