@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Mapa interactivo de escuelas públicas de Miami-Dade.">
+  <title>Miami-Dade Public Schools Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <header class="brand-row">
+        <div class="brand-icon">🏫</div>
+        <div><p class="eyebrow">MIAMI-DADE COUNTY</p><h1>Public Schools Map</h1></div>
+      </header>
+      <p class="intro">Busca escuelas públicas por nombre, dirección, ciudad o código postal.</p>
+      <label for="searchInput">Buscar escuelas</label>
+      <div class="search-wrap">
+        <span>⌕</span>
+        <input id="searchInput" type="search" placeholder="Nombre, dirección, ZIP…" autocomplete="off">
+        <button id="clearSearch" class="icon-button" aria-label="Borrar búsqueda">×</button>
+      </div>
+      <div class="filter-heading"><span>Tipo de escuela</span><button id="resetFilters" class="text-button">Restablecer</button></div>
+      <div id="typeFilters" class="filter-grid">
+        <button class="filter-chip active" data-type="all">Todas</button>
+        <button class="filter-chip" data-type="elementary">Elementary</button>
+        <button class="filter-chip" data-type="middle">Middle</button>
+        <button class="filter-chip" data-type="high">High</button>
+        <button class="filter-chip" data-type="k8">K–8</button>
+        <button class="filter-chip" data-type="other">Otras</button>
+      </div>
+      <div class="stats-card">
+        <div><strong id="visibleCount">0</strong><span>visibles</span></div>
+        <div><strong id="totalCount">0</strong><span>cargadas</span></div>
+      </div>
+      <button id="locateButton" class="primary-button">◎ Escuelas cerca de mí</button>
+      <div id="status" class="status" role="status">Cargando escuelas…</div>
+      <footer>Datos del servicio GIS público de Miami-Dade.<br>Mapa © OpenStreetMap contributors.</footer>
+    </aside>
+    <section class="map-panel">
+      <div id="map"></div>
+      <button id="mobileFilters" class="mobile-filter-button">☰ Filtros</button>
+      <div class="legend"><span><i class="dot elementary"></i>Elementary</span><span><i class="dot middle"></i>Middle</span><span><i class="dot high"></i>High</span><span><i class="dot other"></i>Otras</span></div>
+    </section>
+  </main>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
