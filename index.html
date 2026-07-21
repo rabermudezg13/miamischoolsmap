@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="es">
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Mapa interactivo de escuelas públicas de Miami-Dade.">
+  <meta name="description" content="Interactive map of Miami-Dade public schools.">
   <title>Miami-Dade Public Schools Map</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
@@ -17,34 +17,34 @@
         <div class="brand-icon">🏫</div>
         <div><p class="eyebrow">MIAMI-DADE COUNTY</p><h1>Public Schools Map</h1></div>
       </header>
-      <p class="intro">Busca escuelas públicas por nombre, dirección, ciudad o código postal.</p>
-      <label for="searchInput">Buscar escuelas</label>
+      <p class="intro">Find public schools by name, address, city, ZIP code, or grade level.</p>
+      <label for="searchInput">Search schools</label>
       <div class="search-wrap">
         <span>⌕</span>
-        <input id="searchInput" type="search" placeholder="Nombre, dirección, ZIP…" autocomplete="off">
-        <button id="clearSearch" class="icon-button" aria-label="Borrar búsqueda">×</button>
+        <input id="searchInput" type="search" placeholder="Name, address, or ZIP…" autocomplete="off">
+        <button id="clearSearch" class="icon-button" aria-label="Clear search">×</button>
       </div>
-      <div class="filter-heading"><span>Tipo de escuela</span><button id="resetFilters" class="text-button">Restablecer</button></div>
+      <div class="filter-heading"><span>School type</span><button id="resetFilters" class="text-button">Reset</button></div>
       <div id="typeFilters" class="filter-grid">
-        <button class="filter-chip active" data-type="all">Todas</button>
+        <button class="filter-chip active" data-type="all">All</button>
         <button class="filter-chip" data-type="elementary">Elementary</button>
         <button class="filter-chip" data-type="middle">Middle</button>
         <button class="filter-chip" data-type="high">High</button>
         <button class="filter-chip" data-type="k8">K–8</button>
-        <button class="filter-chip" data-type="other">Otras</button>
+        <button class="filter-chip" data-type="other">Other</button>
       </div>
       <div class="stats-card">
-        <div><strong id="visibleCount">0</strong><span>visibles</span></div>
-        <div><strong id="totalCount">0</strong><span>cargadas</span></div>
+        <div><strong id="visibleCount">0</strong><span>visible</span></div>
+        <div><strong id="totalCount">0</strong><span>loaded</span></div>
       </div>
-      <button id="locateButton" class="primary-button">◎ Escuelas cerca de mí</button>
-      <div id="status" class="status" role="status">Cargando escuelas…</div>
-      <footer>Datos del servicio GIS público de Miami-Dade.<br>Mapa © OpenStreetMap contributors.</footer>
+      <button id="locateButton" class="primary-button">◎ Schools near me</button>
+      <div id="status" class="status" role="status">Loading schools…</div>
+      <footer>School data provided by Miami-Dade County public GIS services.<br>Map © OpenStreetMap contributors.</footer>
     </aside>
     <section class="map-panel">
       <div id="map"></div>
-      <button id="mobileFilters" class="mobile-filter-button">☰ Filtros</button>
-      <div class="legend"><span><i class="dot elementary"></i>Elementary</span><span><i class="dot middle"></i>Middle</span><span><i class="dot high"></i>High</span><span><i class="dot other"></i>Otras</span></div>
+      <button id="mobileFilters" class="mobile-filter-button">☰ Filters</button>
+      <div class="legend"><span><i class="dot elementary"></i>Elementary</span><span><i class="dot middle"></i>Middle</span><span><i class="dot high"></i>High</span><span><i class="dot other"></i>Other</span></div>
     </section>
   </main>
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
