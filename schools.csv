@@ -1,1 +1,452 @@
-id,name,campus,address,unit,city,state,zipcode,phone,email,type,grades,capacity,enrollment,region,latitude,longitude,source_url
+﻿id,name,address,city,state,zipcode,phone,email,type,grades,latitude,longitude
+7073,Academy for Advanced Academics - North,3000 NE 151st St,North Miami,FL,33181,305-919-4450,,S,11-12,25.91024,-80.13947
+7073,Academy for Advanced Academics - South,11200 SW 8th St,Miami-Dade,FL,33199,305-348-7041,,S,11-12,25.75807,-80.37702
+3191,Ada Merritt K-8 Center,660 SW 3rd St,Miami,FL,33130,305-326-0791,,E,K-8,25.77055,-80.20483
+4071,Agenoria S. Paschal/ Olinda Elementary School,5536 NW 21st Ave,Miami-Dade,FL,33142,305-633-0308,,E,PK-5,25.82589,-80.23118
+0041,Air Base K-8 Center for International Education,12829 SW 272nd St,Miami-Dade,FL,33032,305-258-3676,,E,PK-8,25.51481,-80.39867
+7048,Alonzo and Tracy Mourning Senior High,2601 NE 151st St,North Miami,FL,33160,305-919-2000,,S,9-12,25.91647,-80.14704
+8014,Alternative Outreach-Ext. YR,5120 NW 24th Ave,Miami,FL,33142,305-694-4444  ,,O,0,25.82146,-80.23747
+1521,Amelia Earhart Elementary,5987 E 7th Ave,Hialeah,FL,33013,305-688-9619,,E,PK-5,25.87686,-80.26825
+7011,American Senior High,18350 NW 67th Ave,Miami-Dade,FL,33015,305-557-3770,,S,9-12,25.93962,-80.30851
+7012,American Senior High Adult Education,18350 NW 67th Ave,Miami-Dade,FL,33015,305-557-3770,,O, ,25.93941,-80.30756
+6023,Andover Middle,121 NE 207th St,Miami Gardens,FL,33179,305-654-2727,,M,6-8,25.96623,-80.1992
+3881,Andrea Castillo Preparatory Academy,10201 NW 78th St,Doral,FL,33178,305-593-3155,,E,PK-5,25.84453,-80.36295
+9606,Anna Brenner Meyers Telecommunication Complex,172 NE 15th St,Miami,FL,33132,305-995-1717,,A,0,25.78929,-80.19188
+0341,Arch Creek Elementary,702 NE 137th St,North Miami,FL,33161,305-892-4000,,E,PK-5,25.90097,-80.18436
+0101,Arcola Lake Elementary,1037 NW 81st St,Miami-Dade,FL,33150,305-836-2820,,E,PK-5,25.84918,-80.21402
+7351,Arthur & Polly Mays Conservatory of The Arts,11700 SW 216th St,Miami-Dade,FL,33170,305-233-2300,,S,6-12,25.56591,-80.37998
+6021,Arvida Middle,10900 SW 127th Ave,Miami-Dade,FL,33186,305-385-7144,,M,6-8,25.66654,-80.40116
+0121,Auburndale Elementary,3255 SW 6th St,Miami,FL,33135,305-445-3587,,E,PK-5,25.76693,-80.2481
+0121,Auburndale Elementary PLC-H1,3255 SW 6th St,Miami,FL,33135,305-445-3587,,PLC,0,25.7672,-80.25064
+0231,Aventura Waterways K-8 Center,21101 NE 26th Ave,Miami-Dade,FL,33180,305-933-5200,,E,K-8,25.97057,-80.14945
+0231,Aventura Waterways K-8 Center (Annex),750 Ives Dairy Rd,Miami-Dade,FL,33179,305-933-5200,,E,K-8,25.95972,-80.18733
+0161,Avocado Elementary,16969 SW 294th St,Miami-Dade,FL,33030,305-247-4942,,E,PK-3,25.49404,-80.46612
+0201,Banyan Elementary,3060 SW 85th Ave,Miami-Dade,FL,33155,305-221-4011,,E,PK-5,25.74118,-80.33393
+7751,Barbara Goleman Senior High,14100 NW 89th Ave,Miami Lakes,FL,33018,305-362-0676,,S,9-12,25.90122,-80.34576
+3781,Barbara Hawkins Elementary,19010 NW 37th Ave,Miami Gardens,FL,33056,305-624-2615,,E,PK-5,25.94668,-80.26205
+0261,Bel-Aire Elementary,10205 SW 194th St,Cutler Bay,FL,33157,305-233-5401,,E,PK-5,25.58789,-80.35582
+5021,Ben Sheppard Elementary,5700 W 24th Ave,Hialeah,FL,33016,305-556-2204,,E,PK-5,25.87422,-80.33175
+5021,Ben Sheppard Elementary PLC-V,5601 W 24th Ave,Hialeah,FL,33016,305-818-7984,,PLC,0,25.8738,-80.33083
+2041,Benjamin Franklin K-8 Center,13100 NW 12th Ave,North Miami,FL,33168,305-681-3547,,E,PK-8,25.89506,-80.22011
+0271,Bent Tree Elementary,4861 SW 140th Ave,Miami-Dade,FL,33175,305-221-0461,,E,PK-5,25.72133,-80.42071
+7008,Biotech@Richmond Heights 9-12 High School,15015 SW 103rd Ave,Miami-Dade,FL,33176,786-573-5353,,S,9-12,25.62968,-80.3596
+0321,Biscayne Beach Elementary,800 77th St,Miami Beach,FL,33141,305-868-7727,,E,PK-5,25.86171,-80.12652
+0441,Blue Lakes K-8 Center,9250 SW 52nd Ter,Miami-Dade,FL,33165,305-271-7411,,E,PK-8,25.71817,-80.34422
+0091,Bob Graham Education Center,15901 NW 79th Ave,Miami Lakes,FL,33016,305-557-3303,,E,PK-8,25.9174,-80.32818
+0091,Bob Graham Education Center PLC-H,8875 NW 143rd St,Miami Lakes,FL,33018,305-231-8778,,PLC,0,25.90372,-80.34395
+7791,Booker T. Washington Senior High,1200 NW 6th Ave,Miami,FL,33136,305-324-8900,,S,9-12,25.7865,-80.20511
+0461,Brentwood Elementary,3101 NW 191st St,Miami Gardens,FL,33056,305-624-2657,,E,PK-5,25.94839,-80.25273
+0461,Brentwood Elementary PLC-D1,3101 NW 191st St,Miami Gardens,FL,33056,305-624-2657,,PLC,0,25.94839,-80.25273
+0521,Broadmoor Elementary,3401 NW 83rd St,Miami-Dade,FL,33147,305-691-0861,,E,PK-5,25.84959,-80.25367
+6031,Brownsville Middle,4899 NW 24th Ave,Miami-Dade,FL,33142,305-633-1481,,M,6-8,25.81955,-80.23555
+9732,Brucie Ball Educational Center,11001 SW 76th St,Miami-Dade,FL,33173,305-514-5100,,SPC,PK-12,25.69832,-80.3729
+0641,Bunche Park Elementary,16001 Bunche Park School Dr,Miami Gardens,FL,33054,305-621-1469,,E,PK-5,25.9204,-80.23837
+8121,C.O.P.E. Center North,9950 NW 19th Ave,Miami-Dade,FL,33147,305-836-3300,,ALT,6-12,25.86577,-80.23045
+0671,Calusa Elementary,9580 W Calusa Club Dr,Miami-Dade,FL,33186,305-385-0589,,E,PK-5,25.67903,-80.41225
+0651,Campbell Drive K-8 Center,15790 SW 307th St,Miami-Dade,FL,33033,305-245-0270,,E,PK-8,25.48148,-80.44588
+0661,Caribbean K-8 Center,11990 SW 200th St,Miami-Dade,FL,33177,305-233-7131,,E,PK-8,25.58045,-80.38627
+0681,Carol City Elementary,4375 NW 173rd Dr,Miami Gardens,FL,33055,305-621-0509,,E,PK-5,25.93335,-80.27156
+6051,Carol City Middle,3737 NW 188th St,Miami Gardens,FL,33055,305-624-2652,,M,6-8,25.94528,-80.26241
+5901,Carrie P. Meek/Westview K-8 Center,2101 NW 127th St,Miami-Dade,FL,33167,305-688-9641,,E,PK-8,25.89043,-80.23445
+5901,Carrie P. Meek/Westview K-8 Center Annex,1901 NW 127th St,Miami-Dade,FL,33167,305-688-9641,,E,PK-8,25.89075,-80.23159
+7021,Center For International Education: A Cambridge A S,900 NE 23rd Ave,Homestead,FL,33033,305-248-7911,,S,9-12,25.47822,-80.4455
+9574,Central Region Office,5005 NW 112th Ave,Doral,FL,33178,305-499-5050,,A, 0,25.81949,-80.37661
+9797,Chapman House,526 NW 13th St,Miami,FL,33136,305-416-1072,,O,0,25.78648,-80.20375
+0331,Chapman Partnership Early Childhood Center North,1550 North Miami Ave,Miami,FL,33136,305-329-3057,,E,PK,25.78993,-80.1952
+0351,Chapman Partnership Early Childhood Center South,28205 SW 124th Ct,Miami-Dade,FL,33033,305-416-7189,,E,PK,25.50555,-80.39224
+5991,Charles David Wyche Jr. Elementary,5241 NW 195th Dr,Miami-Dade,FL,33055,305-628-5776,,E,PK-5,25.94993,-80.28807
+1401,Charles R. Drew K-8 Center,1775 NW 60th St,Miami-Dade,FL,33142,305-691-8021,,E,PK-8,25.83023,-80.22627
+2331,Charles R. Hadley Elementary,8400 NW 7th St,Miami-Dade,FL,33126,305-261-3719,,E,PK-5,25.77532,-80.3328
+2331,Charles R. Hadley PLC-A,8390 NW 7th St,Miami-Dade,FL,33126,305-265-2714,,PLC,0,25.77616,-80.33282
+1691,Christina M. Eve Elementary,16251 SW 99th St,Miami-Dade,FL,33196,305-383-9392,,E,PK-5,25.6742,-80.45916
+1691,Christina M. Eve PLC - N,16251 SW 72nd St,Miami-Dade,FL,33193,305-383-9392,,PLC,0,25.6991,-80.4551
+0801,Citrus Grove K-8 Center,2153 NW 3rd St,Miami,FL,33125,305-642-5055,,E,0,25.77657,-80.23009
+0801,Citrus Grove K-8 Center,2121 NW 5th St,Miami,FL,33125,305-642-4141,,E,PK-8,25.77852,-80.23062
+0831,Claude Pepper Elementary,14550 SW 96th St,Miami-Dade,FL,33186,305-386-5244,,E,PK-5,25.67654,-80.42995
+0841,Coconut Grove Elementary,3351 Matilda St,Miami,FL,33133,305-445-7876,,E,PK-5,25.72889,-80.24313
+3621,Coconut Palm K-8 Academy,24400 SW 124th Ave,Miami-Dade,FL,33032,305-257-0500,,E,PK-8,25.54131,-80.39341
+0881,Comstock Elementary,2420 NW 18th Ave,Miami,FL,33142,305-635-7341,,E,PK-5,25.79958,-80.22612
+7072,Coral Gables Adult Education,450 Bird Rd,Coral Gables,FL,33146,305-443-4871,,O,0,25.73335,-80.26371
+0961,Coral Gables Preparatory Academy,105 Minorca Ave,Coral Gables,FL,33134,305-448-1731,,E,PK-8,25.75414,-80.25782
+0961,Coral Gables Preparatory Academy MLC,39 Zamora Ave,Coral Gables,FL,33134,305-448-1731,,E,PK-8,25.75694,-80.25603
+7071,Coral Gables Senior High,450 Bird Rd,Coral Gables,FL,33146,305-443-4871,,S,9-12,25.73368,-80.26321
+1001,Coral Park Elementary,1225 SW 97th Ave,Miami-Dade,FL,33174,305-221-5632,,E,PK-5,25.75727,-80.35144
+1041,Coral Reef Elementary,7955 SW 152nd St,Palmetto Bay,FL,33157,305-235-1464,,E,PK-5,25.62981,-80.3225
+7101,Coral Reef Senior High,10101 SW 152nd St,Miami-Dade,FL,33157,305-232-2044,,S,9-12,25.62972,-80.35682
+1081,Coral Terrace Elementary,6801 SW 24th St,Miami-Dade,FL,33155,305-262-8300,,E,PK-5,25.74852,-80.3063
+1121,Coral Way K-8 Center,1950 SW 13th Ave,Miami,FL,33145,305-854-0515,,E,PK-8,25.75368,-80.21778
+6611,Country Club Middle,18305 NW 75th Pl,Miami-Dade,FL,33015,305-820-8800,,M,6-8,25.9397,-80.32276
+1161,Crestview Elementary,2201 NW 187th St,Miami Gardens,FL,33056,305-624-1495,,E,PK-5,25.94513,-80.23807
+6111,Cutler Bay Middle,19400 Gulfstream Rd,Cutler Bay,FL,33157,305-235-4761,,M,6-8,25.5872,-80.34894
+6081,Cutler Bay Senior High,8601 SW 212th St,Cutler Bay,FL,33189,305-235-1581,,M,9-12,25.5711,-80.33047
+1241,Cutler Ridge Elementary,20210 Coral Sea Rd,Cutler Bay,FL,33189,305-235-4611,,E,PK-5,25.57975,-80.35383
+1281,Cypress K-8 Center,5400 SW 112th Ct,Miami-Dade,FL,33165,305-271-1611,,E,PK-8,25.71691,-80.37636
+8139,D.A. Dorsey Technical College,7100 NW 17th Ave,Miami-Dade,FL,33147,305-693-2490,,O,0,25.83956,-80.22566
+9412,Dade County Public School-Management Information,13135 SW 26th St,Miami-Dade,FL,33175,305-994-2530,,A,0,25.74429,-80.40724
+1811,Dante B. Fascell Elementary,15625 SW 80th St,Miami-Dade,FL,33193,305-380-1901,,E,PK-5,25.69339,-80.44528
+1761,David Fairchild Elementary,5757 SW 45th St,Miami-Dade,FL,33155,305-665-5483,,E,PK-5,25.7296,-80.28739
+5005,David Lawrence Jr. K-8 Center,15000 Bay Vista Blvd,North Miami,FL,33181,305-354-2600,,E,PK-8,25.91385,-80.14552
+5005,David Lawrence Jr. K-8 Center PLC South Campus,12175 NE 12th Ct,North Miami,FL,33161,305-892-7080,,PLC,0,25.88761,-80.17363
+7081,Design & Architecture Senior High,4001 NE 2nd Ave,Miami,FL,33137,305-573-7135,,S,9-12,25.81349,-80.19074
+1331,Devon Aire K-8 Center,10501 SW 122nd Ave,Miami-Dade,FL,33186,305-274-7100,,E,PK-8,25.66904,-80.3915
+0361,District Office,560 NW 151st St,Miami-Dade,FL,33169,305-681-5721,,A,0,25.91278,-80.2088
+9573,District Office/Charter School,1080 La Baron Dr,Miami Springs,FL,33166,305-883-0403,,A,0,25.81243,-80.27431
+0451,Doolin/Bowman Foster Ashe Elementary,6601 SW 152nd Ave,Miami-Dade,FL,33193,305-386-6667,,E,PK-8,25.70432,-80.44172
+8131,Dorothy M. Wallace C.O.P.E. Center,10225 SW 147th Ter,Miami-Dade,FL,33176,305-233-1044,,ALT,6-12,25.63287,-80.35879
+5061,Dr. Carlos J. Finlay Elementary,851 SW 117th Ave,Miami-Dade,FL,33174,305-552-7122,,E,PK-5,25.75919,-80.38155
+5981,Dr. Edward L. Whigham Elementary,21545 SW 87th Ave,Cutler Bay,FL,33189,305-234-4840,,E,PK-5,25.5648,-80.33103
+5981,Dr. Edward L. Whigham PLC-E,8035 SW 196th St,Cutler Bay,FL,33189,305-252-5050,,PLC,0,25.58537,-80.32497
+5081,Dr. Frederica S. Wilson/Skyway Elementary,4555 NW 206th Ter,Miami Gardens,FL,33055,305-621-5838,,E,PK-5,25.96166,-80.27766
+4511,Dr. Gilbert L. Porter Elementary,15851 SW 112th St,Miami-Dade,FL,33196,305-382-0792,,E,PK-5,25.66468,-80.45267
+4511,Dr. Gilbert L. Porter Elementary PLC-Q,15751 SW 112th St,Miami-Dade,FL,33196,305-382-0792,,PLC,0,25.66459,-80.45095
+4381,Dr. Henry E. Perrine Academy of the Arts,8851 SW 168th St,Palmetto Bay,FL,33157,305-235-2442,,E,K-5,25.61537,-80.33586
+5861,Dr. Henry W. Mack/West Little K-8 Center,2450 NW 84th St,Miami-Dade,FL,33147,305-691-6491,,E,PK-8,25.85037,-80.23884
+0211,Dr. Manuel C. Barreiro Elementary,5125 SW 162nd Ave,Miami-Dade,FL,33185,305-229-4800,,E,PK-5,25.7175,-80.45498
+0211,Dr. Manuel C. Barreiro Elementary ECC-3,16350 SW 47th St,Miami-Dade,FL,33185,305-228-4200,,E,PK-5,25.71978,-80.45778
+2981,Dr. Martin Luther King  @ Liberty City PLC,7124 NW 12th Ave,Miami-Dade,FL,33150,305-836-0928,,PLC,0,25.83984,-80.2174
+8019,Dr. Marvin Dunn Academy For Community Education,8950 NW 2nd Ave,El Portal,FL,33150,305-460-2946,,ALT,9-12,25.85565,-80.20193
+7141,Dr. Michael M. Krop Senior High,1410 NE 215th St,Miami-Dade,FL,33179,305-652-6808,,S,9-12,25.97153,-80.17337
+4121,Dr. Robert  B. Ingram Elementary,600 Ahmad St,Opa-locka,FL,33054,305-688-4605,,E,PK-5,25.90445,-80.24784
+0122,Dr. Rolando Espinosa K-8 Center,11250 NW 86th St,Doral,FL,33178,305-889-5757,,E,PK-8,25.85127,-80.38039
+4011,Dr. Toni Bilbao Preparatory Academy,8905 NW 114th Ave,Doral,FL,33178,305-863-5750,,E,PK-8,25.85408,-80.38253
+5381,E.W.F. Stirrup Elementary,330 NW 97th Ave,Miami-Dade,FL,33172,305-226-7001,,E,PK-5,25.77,-80.35392
+1561,Earlington Heights Elementary,4750 NW 22nd Ave,Miami-Dade,FL,33142,305-635-7505,,E,PK-5,25.81761,-80.23303
+9731,"Early Childhood, ESE and Tiitle",11001 SW 76th St,Miami-Dade,FL,33173,305-995-7243,,SPC,6-8,25.69832,-80.3729
+1601,Edison Park K-8 Center,500 NW 67th St,Miami,FL,33150,305-758-3658,,E,PK-8,25.83576,-80.20478
+8017,Educational Alternative Outreach Program,6300 NW 27th Ave,Miami-Dade,FL,33147,305-694-4444,,ALT,0,25.83249,-80.24169
+1641,Emerson Elementary,8001 SW 36th St,Miami-Dade,FL,33155,305-264-5757,,E,PK-5,25.73719,-80.32442
+2351,Eneida Massas Hartner Elementary,401 NW 29th St,Miami,FL,33127,305-573-8181,,E,PK-5,25.80407,-80.20201
+7841,English Center,3501 SW 28th St,Miami,FL,33133,305-445-7731,,O,0,25.73991,-80.25164
+5051,Ernest R. Graham K-8 Center,7330 W 32nd Ave,Hialeah,FL,33018,305-825-2122,,E,PK-8,25.88798,-80.34864
+4441,Ethel F. Beckford/Richmond Primary Learning Center,16929 SW 104th Ave,Miami-Dade,FL,33157,305-238-5194,,PLC,PK,25.61229,-80.36099
+0251,Ethel Koger Beckham K-8 Center,4702 SW 143rd Ct,Miami-Dade,FL,33175,305-222-8161,,E,PK-8,25.72182,-80.42589
+0071,Eugenia B. Thomas K-8 Center,5950 NW 114th Ave,Doral,FL,33178,305-592-7914,,E,PK-8,25.8277,-80.38264
+1721,Everglades K-8 Center,8300 SW 16th St,Miami-Dade,FL,33155,305-264-4154,,U,0,25.75662,-80.32998
+1721,Everglades K-8 Center,8375 SW 16th St,Miami-Dade,FL,33155,305-264-4154,,E,PK-8,25.75539,-80.33147
+1801,Fairlawn Elementary,444 SW 60th Ave,Miami,FL,33144,305-261-8880,,E,PK-5,25.76664,-80.29351
+3900,Family Empowerment Scholarship,489 East Dr,Miami Springs,FL,33166,305-883-5323,,A,0,25.81112,-80.27254
+9028,Federal & State Compliance Office,489 East Dr,Miami Springs,FL,33166,305-883-5323, ,A,0,25.81113,-80.27254
+7781,Felix Varela Senior High,15255 SW 96th St,Miami-Dade,FL,33196,305-752-7900,,S,9-12,25.67781,-80.44282
+1841,Flagami Elementary,920 SW 76th Ave,Miami-Dade,FL,33144,305-261-2031,,E,PK-5,25.76131,-80.31846
+1921,Flamingo Elementary,701 E 33rd St,Hialeah,FL,33013,305-691-5531,,E,PK-5,25.85298,-80.26784
+2001,Florida City Elementary,364 NW 6th Ave,Florida City,FL,33034,305-247-4676,,E,PK-5,25.45201,-80.48621
+9018,Florida Diagnostic and Learning Resources System/South,6521 SW 62nd Ave,South Miami,FL,33143,305-274-3501,,SPC,0,25.70981,-80.29333
+9025,Food & Nutrition Center,7042 W Flagler St,Miami,FL,33144,786-275-0420,,A,0,25.76998,-80.30933
+9001,Former Region Office/Warehouse,2201 SW 4th St,Miami,FL,33135,305-642-7555,,A,0,25.76896,-80.23125
+5561,Frances S. Tucker Elementary,3500 Douglas Rd,Miami,FL,33133,305-567-3533,,E,PK-8,25.72632,-80.25393
+3101,Frank C. Martin K-8 Center,14250 Boggs Dr,Miami-Dade,FL,33176,305-238-3688,,E,PK-8,25.63784,-80.37536
+1361,Frederick Douglass Elementary,314 NW 12th St,Miami,FL,33136,305-371-4687,,E,PK-5,25.78532,-80.20082
+2081,Fulford Elementary,16140 NE 18th Ave,North Miami Beach,FL,33162,305-949-3425,,E,PK-5,25.92374,-80.16429
+7051,G. Holmes Braddock Senior High,3601 SW 147th Ave,Miami-Dade,FL,33185,305-225-9729,,S,9-12,25.73409,-80.43103
+4031,Gateway Environmental K-8 Learning Center,955 SE 18th Ave,Homestead,FL,33035,305-257-6000,,E,PK-8,25.4609,-80.45073
+7801,George T. Baker Aviation Technical College,3275 NW 42nd Ave,Miami-Dade,FL,33142,305-871-3143,,O,0,25.80419,-80.26356
+0721,George Washington Carver Elementary,238 Grand Ave,Coral Gables,FL,33133,305-443-5286,,E,PK-5,25.72722,-80.25896
+6071,George Washington Carver Middle,4901 Lincoln Dr,Coral Gables,FL,33133,305-444-7388,,M,6-8,25.7259,-80.25896
+6011,Georgia Jones-Ayers Middle,1331 NW 46th St,Miami,FL,33142,305-634-9787,,M,6-8,25.81764,-80.21882
+4801,Gertrude Edelman/Sabal Palm Elementary,17101 NE 7th Ave,Miami-Dade,FL,33162,305-651-2411,,E,PK-5,25.93281,-80.18604
+6211,Glades Middle,9451 SW 64th St,Miami-Dade,FL,33173,305-271-3342,,M,6-8,25.70963,-80.34751
+2021,Gloria Floyd Elementary,12650 SW 109th Ave,Miami-Dade,FL,33176,305-255-3934,,E,PK-5,25.65105,-80.37169
+2161,Golden Glades Elementary,16520 NW 28th Ave,Miami Gardens,FL,33054,305-624-9641,,E,PK-5,25.92504,-80.24711
+0311,Goulds Elementary,23555 SW 112th Ave,Miami-Dade,FL,33032,305-257-4400,,E,PK-5,25.54888,-80.37164
+2241,Gratigny Elementary,11905 N Miami Ave,Miami-Dade,FL,33168,305-681-6685,,E,PK-5,25.88507,-80.198
+2261,Greenglade Elementary,3060 SW 127th Ave,Miami-Dade,FL,33175,305-223-5330,,E,PK-5,25.7394,-80.40054
+2281,Greynolds Park Elementary,1536 NE 179th St,North Miami Beach,FL,33162,305-949-2129,,E,PK-5,25.94006,-80.17
+2281,Greynolds Park Elementary PLC-C,1575 NE 177th St,North Miami Beach,FL,33162,305-354-3208,,PLC,0,25.93882,-80.16912
+2321,Gulfstream Elementary,20900 SW 97th Ave,Cutler Bay,FL,33189,305-235-6811,,E,PK-5,25.57276,-80.34858
+6221,Hammocks Middle,9889 Hammocks Blvd,Miami-Dade,FL,33196,305-385-0896,,M,6-8,25.67424,-80.44275
+4491,Henry E. S. Reeves K-8 Center Lower Academy,2225 NW 103rd St,Miami-Dade,FL,33147,305-691-6361,,E,PK-8,25.86867,-80.23595
+4491,Henry E.S. Reeves K-8 Center,2005 NW 111th St,Miami-Dade,FL,33167,305-953-7243,,E,PK-8,25.87623,-80.23181
+6171,Henry H. Filer Middle,531 W 29th St,Hialeah,FL,33012,305-822-6601,,M,6-8,25.84848,-80.29334
+1881,Henry M. Flagler Elementary,5222 NW 1st St,Miami,FL,33126,305-443-2529,,E,PK-5,25.77204,-80.28133
+5831,Henry S. West Laboratory School,5300 Carillo St,Coral Gables,FL,33146,305-661-7661,,E,K-8,25.72117,-80.27389
+6001,Herbert A. Ammons Elementary,17475 SW 157th Ave,Miami-Dade,FL,33187,305-971-0158,,M,1-5,25.60436,-80.44579
+6001,Herbert A. Ammons Middle,17990 SW 142nd Ave,MiamiI-Dade,FL,33177,305-971-0158,,M,6-8,25.60049,-80.42252
+7112,Hialeah Adult Education Center,251 E 47th St,Hialeah,FL,33013,305-822-1500,,O,0,25.86554,-80.27553
+2361,Hialeah Elementary,550 E 8th St,Hialeah,FL,33010,305-888-6709,,E,PK-5,25.82923,-80.27051
+2111,Hialeah Gardens Elementary,9702 NW 130th St,Hialeah Gardens,FL,33018,305-827-8830,,E,PK-5,25.89103,-80.35698
+2111,Hialeah Gardens Elementary PLC- B,9749 NW 127th Ter,Hialeah Gardens,FL,33018,305-818-7976,,PLC,0,25.88979,-80.35737
+6751,Hialeah Gardens Middle,11690 NW 92nd Ave,Hialeah Gardens,FL,33018,305-817-0017,,M,6-8,25.8798,-80.34791
+7191,Hialeah Gardens Senior High,11700 Hialeah Gardens Blvd,Hialeah Gardens,FL,33018,305-698-5000,,S,9-12,25.87968,-80.35386
+6231,Hialeah Middle,6027 E 7th Ave,Hialeah,FL,33013,305-681-3527,,M,6-8,25.87761,-80.26848
+7111,Hialeah Senior High,251 E 47th St,Hialeah,FL,33013,305-822-1500,,S,9-12,25.86544,-80.27776
+7132,Hialeah-Miami Lakes Adult Education,7977 W 12th Ave,Hialeah,FL,33014,305-823-1330,,O,0,25.89496,-80.30732
+7131,Hialeah-Miami Lakes Senior High,7977 W 12th Ave,Hialeah,FL,33014,305-823-1330,,S,9-12,25.89496,-80.30732
+2401,Hibiscus Elementary,18701 NW 1st Ave,Miami Gardens,FL,33169,305-652-3018,,E,PK-5,25.9465,-80.20301
+6241,Highland Oaks Middle,2375 NE 203rd St,Miami-Dade,FL,33180,305-932-3810,,M,6-8,25.96398,-80.15417
+2501,Holmes Elementary,1175 NW 67th St,Miami,FL,33150,305-836-3421,,E,PK-5,25.83604,-80.21618
+6251,Homestead Middle,650 NW 2nd Ave,Homestead,FL,33030,305-247-4221,,M,6-8,25.47635,-80.48187
+7151,Homestead Senior High School,2351 SE 12th Ave,Homestead,FL,33034,305-245-7000,,S,9-12,25.44877,-80.45987
+6411,Horace Mann Middle,8950 NW 2nd Ave,El Portal,FL,33150,305-757-9537,,M,6-8,25.85681,-80.20188
+6441,Howard D. Mcmillan Middle,13100 SW 59th St,Miami-Dade,FL,33183,305-385-6877,,M,6-8,25.71243,-80.40589
+2541,Howard Drive Elementary,7750 SW 136th St,Palmetto Bay,FL,33156,305-235-1412,,E,PK-5,25.64398,-80.31886
+5141,Hubert O. Sibley K-8 Center,255 NW 115th St,Miami-Dade,FL,33168,305-953-3737,,E,PK-8,25.8808,-80.20353
+7571,International Studies Preparatory Academy,1570 Madruga Ave,Coral Gables,FL,33146,305-663-7200,,S,9-12,25.70712,-80.28444
+7581,iPrep Academy,1500 Biscayne Blvd,Miami,FL,33132,305-995-1929,,S,PK-12,25.78977,-80.18951
+7459,iPrep Academy North,1420 NE 215th St,Miami-Dade,FL,33179,305-655-3909,,S,6-11,25.97002,-80.174
+4391,Irving & Beatrice Peskoe K-8 Center,29035 SW 144th Ave,Miami-Dade,FL,33033,305-242-8340,,E,PK-8,25.49687,-80.42409
+7005,iTech@Thomas A. Edison Education Center,6101 NW 2nd Ave,Miami,FL,33127,305-754-4683,,S,9-12,25.83161,-80.2001
+9411,ITS Annex Warehouse,2740 NW 104th Ct,Doral,FL,33172,305-995-3331,,A,0,25.79895,-80.36641
+7641,J. C. Bermudez Doral Senior High School,5005 NW 112th Ave,Doral,FL,33178,305-715-3600,,S,9-12,25.81978,-80.37629
+0481,J.W. Johnson Elementary/James H. Bright Elementary,735 W 23rd St,Hialeah,FL,33010,305-883-1357,,E,PK-5,25.84289,-80.29701
+2151,Jack D. Gordon  Elementary,14600 Country Walk Dr,Miami-Dade,FL,33186,305-234-4805,,E,PK-5,25.63004,-80.42991
+2151,Jack D. Gordon Elementary Manatee PLC-T,15551 SW 142nd Ave,Miami-Dade,FL,33177,305-234-4863,,PLC,0,25.62287,-80.42221
+2151,Jack D. Gordon Elementary Panthers PLC-S,15001 SW 127th Ave,Miami-Dade,FL,33186,305-234-4855,,PLC,0,25.62889,-80.39447
+0481,James H. Bright Elementary/J.W. Johnson Elementary,2530 W 10th Ave,Hialeah,FL,33010,305-885-1683,,E,PK-5,25.84482,-80.30256
+8101,Jan Mann Opportunity School,16101 NW 44th Ct,Miami Gardens,FL,33054,305-625-0855,,ALT,6-12,25.92121,-80.27275
+4691,Jane S. Roberts K-8 Center,14850 Cottonwood Cir,Miami-Dade,FL,33185,305-220-8254,,E,PK-8,25.7165,-80.4332
+3021,Jesse J. McCrary Jr. Elementary,514 NW 77th St,Miami,FL,33150,305-754-7531,,E,PK-5,25.84509,-80.20537
+2341,Joe Hall Elementary,1901 SW 134th Ave,Miami-Dade,FL,33175,305-223-9823,,E,PK-5,25.7498,-80.41267
+2181,Joella C. Good Elementary,6350 NW 188th Ter,Miami-Dade,FL,33015,305-625-2008,,E,PK-5,25.94422,-80.30312
+7121,John A. Ferguson Senior High,15900 SW 56th St,Miami-Dade,FL,33185,305-408-2700,,S,9-12,25.71266,-80.45107
+6301,John F. Kennedy Middle,1075 NE 167th St,Miami-Dade,FL,33162,305-947-1451,,M,6-8,25.92981,-80.17862
+1481,John G. Dupuis Elementary,1150 W 59th Pl,Hialeah,FL,33012,305-821-6361,,E,PK-5,25.87605,-80.30615
+5101,John I. Smith Elementary PLC-A1,10415 NW 52nd St,Doral,FL,33178,305-406-0220,,PLC,0,25.82051,-80.36469
+5101,John I. Smith K-8 Center,10415 NW 52nd St,Doral,FL,33178,305-406-0220,,E,PK-8,25.82051,-80.36469
+0861,Johnnie M. Parris Colonial Drive Elementary,10755 SW 160th St,Miami-Dade,FL,33157,305-238-2392,,E,PK-5,25.62125,-80.36693
+6771,Jorge Mas Canosa Middle,15735 SW 144th St,Miami-Dade,FL,33196,305-252-5900,,M,6-8,25.63325,-80.44797
+6361,Jose De Diego Middle,3100 NW 5th Ave,Miami,FL,33127,305-573-7229,,M,6-8,25.80591,-80.20369
+7291,Jose Marti Mathematics & Science Technology Academy,5701 W 24th Ave,Hialeah,FL,33016,305-557-5931,,S,6-12,25.87485,-80.33053
+8141,Juvenile Justice Center,3300 NW 27th Ave,Miami-Dade,FL,33142,305-638-5054,,ALT,6-12,25.80638,-80.24053
+8261,K-12 Distance Learning,172 NE 15th St,Miami,FL,33132,305-995-1717, ,ALT,K-12,25.78929,-80.19189
+4401,Kelsey L. Pharr Elementary,2000 NW 46th St,Miami-Dade,FL,33142,305-633-0429,,E,PK-5,25.81632,-80.22971
+2641,Kendale Elementary,10693 SW 93rd St,Miami-Dade,FL,33176,305-274-2735,,E,PK-5,25.68314,-80.36618
+2651,Kendale Lakes Elementary,8000 SW 142nd Ave,Miami-Dade,FL,33183,305-385-2575,,E,PK-5,25.69231,-80.42572
+3031,Kendall Square K-8 Center,9325 SW 169th Pl,Miami-Dade,FL,33196,305-382-6830,,E,K-6,25.67845,-80.46642
+2661,Kensington Park Elementary,711 NW 30th Ave,Miami,FL,33125,305-649-2811,,E,PK-5,25.78061,-80.24328
+2661,Kensington Park PLC-D,1025 NW 30th Ave,Miami,FL,33125,305-649-4301,,PLC,0,25.78255,-80.2436
+2701,Kenwood K-8 Center,9300 SW 79th Ave,Miami-Dade,FL,33156,305-271-5061,,E,PK-8,25.68428,-80.32359
+2741,Key Biscayne K-8 Center,150 W McIntyre St,Key Biscayne,FL,33149,305-361-5418,,E,PK-8,25.69081,-80.16677
+2781,Kinloch Park Elementary,4275 NW 1st St,Miami,FL,33126,305-445-1351,,E,PK-5,25.77302,-80.26522
+6331,Kinloch Park Middle,4340 NW 3rd St,Miami,FL,33126,305-445-5467,,M,6-8,25.77394,-80.26682
+2801,Lake Stevens Elementary,5101 NW 183rd St,Miami-Dade,FL,33055,305-625-6536,,E,PK-5,25.94017,-80.28516
+6351,Lake Stevens Middle,18484 NW 48th Pl,Miami-Dade,FL,33055,305-620-1294,,M,6-8,25.94115,-80.28224
+2821,Lakeview Elementary,1290 NW 115th St,Miami-Dade,FL,33167,305-757-1535,,E,PK-5,25.87943,-80.22021
+6921,Lamar Louise Curry Middle,15750 SW 47th St,Miami-Dade,FL,33185,305-222-2775,,M,6-8,25.72024,-80.44895
+2941,Laura C. Saunders Elementary,505 SW 8th St,Homestead,FL,33030,305-247-3933,,E,PK-5,25.46301,-80.484
+7033,Law Enforcement Officers Memorial Senior High,300 NW 2nd Ave,Miami,FL,33128,305-371-0400,,S,9-12,25.77727,-80.1982
+6161,Lawton Chiles Middle,8190 NW 197th St,Miami-Dade,FL,33015,305-816-9101,,M,6-8,25.95192,-80.3336
+2881,Leewood K-8 Center,10343 SW 124th St,Miami-Dade,FL,33176,305-233-7430,,E,PK-8,25.65458,-80.36166
+2901,Leisure City K-8 Center,14950 SW 288th St,Miami-Dade,FL,33033,305-247-5431,,E,PK-8,25.49913,-80.43431
+0081,Lenora B. Smith Elementary,4700 NW 12th Ave,Miami,FL,33127,305-635-0873,,E,PK-5,25.81883,-80.21695
+2981,Liberty City Elementary,1855 NW 71st St,Miami-Dade,FL,33147,305-691-8532,,E,PK-5,25.8394,-80.22813
+1681,Lillie C. Evans K-8 Center,1895 NW 75th St,Miami-Dade,FL,33147,305-691-4973,,E,PK-8,25.8434,-80.22907
+2911,Linda Lentin K-8 Center,14312 NE 2nd Ct,Miami-Dade,FL,33161,305-891-4011,,E,PK-8,25.90685,-80.19435
+8005,Lindsey Hopkins Technical College,750 NW 20th St,Miami,FL,33127,305-324-6070,,O,0,25.79504,-80.20762
+3041,Lorah Park Elementary,5160 NW 31st Ave,Miami-Dade,FL,33142,305-633-1424,,E,PK-5,25.82122,-80.24752
+3061,Ludlam Elementary,6639 SW 74th St,South Miami,FL,33143,305-667-5551,,E,PK-5,25.70224,-80.30078
+3421,M.A. Milam K-8 Center,6020 W 16th Ave,Hialeah,FL,33012,305-822-0301,,E,PK-8,25.87746,-80.31557
+2581,Madie Ives Elementary PLC-M,1351 Ives Dairy Rd,Miami-Dade,FL,33179,305-651-3155,,PLC,0,25.96564,-80.17455
+2581,Madie Ives K-8 Preparatory Academy,20770 NE 14th Ave,Miami-Dade,FL,33179,305-651-3155,,E,PK-8,25.9672,-80.17467
+6391,Madison Middle,3400 NW 87th St,Miami-Dade,FL,33147,305-836-2610,,M,6-8,25.85236,-80.25328
+5711,Mae M. Walters Elementary,650 W 33rd St,Hialeah,FL,33012,305-822-4600,,E,PK-5,25.85127,-80.29547
+9221,Maintenance Operations Plant Operations Center,11035 SW 84th St,Miami-Dade,FL,33173,305-995-1550,,A,0,25.69197,-80.37176
+9251,Maintenance Service Center 1,12525 NW 28th Ave,Miami-Dade,FL,33167,305-995-7900,,A,0,25.88839,-80.2446
+9281,Maintenance Service Center 2,2925 NW 41st St,Miami-Dade,FL,33142,305-995-4300,,A,0,25.81309,-80.2429
+9264,Maintenance Service Center 3,15301 SW 117th Ave,Miami-Dade,FL,33177,305-235-4285,,A,0,25.6258,-80.38179
+9261,Maintenance Service Center 4,24600 SW 159th Ave,Miami-Dade,FL,33031,305-248-3016,,A,0,25.53721,-80.44974
+0073,Mandarin Lakes K-8 Academy,12225 SW 280TH St,Miami-Dade,FL,33032,305-257-0377,,E,PK-8,25.50759,-80.39072
+7161,Maritime & Science Technology Academy,3979 Rickenbacker Cswy,Miami-Dade,FL,33149,305-365-6278,,S,6-12,25.73918,-80.16648
+9485,Marjory Stoneman Douglas Biscayne Nature Center,6767 Crandon Blvd,Miami-Dade,FL,33149,305-361-6767,,O,0,25.7154,-80.15129
+1371,Marjory Stoneman Douglas Elementary,11901 SW 2nd St,Miami-Dade,FL,33184,305-226-4356,,E,PK-5,25.76666,-80.38939
+1371,Marjory Stoneman Douglas PLC-F,650 NW 132nd Ave,Miami-Dade,FL,33182,305-222-4822,,PLC,0,25.77351,-80.40939
+7031,MAST @ FIU Biscayne Bay Campus,3000 NE 151st St,North Miami,FL,33181,305-919-4450,,S,9-12,25.91024,-80.13947
+9134,Materials Control Center,7040 W Flagler St,Miami,FL,33144,786-275-0775,,A,0,25.76998,-80.30933
+0111,Maya Angelou Elementary,1850 NW 32nd St,Miami,FL,33142,305-636-3480,,E,PK-5,25.80531,-80.22677
+9913,MDCPS Police Center,6100 NW 2nd Ave,Miami,FL,33127,305-757-7708,,A,0,25.83184,-80.20071
+9938,MDCPS Police General Investigations Unit,2950 NW 43rd Ter,Miami-Dade,FL,33142,305-995-4100,,A,0,25.81425,-80.24357
+3141,Meadowlane Elementary,4280 W 8th Ave,Hialeah,FL,33012,305-822-0660,,E,PK-5,25.86172,-80.29898
+7171,Medical Academy For Science And Technology,1220 NW 1st Ave,Homestead,FL,33030,305-257-4500,,S,9-12,25.48237,-80.48058
+3181,Melrose Elementary,3050 NW 35th St,Miami-Dade,FL,33142,305-635-8676,,E,PK-5,25.80769,-80.24523
+7013,Metro West Detention Facility,5120 NW 24th Ave,Miami,FL,33142,305-636-6160  ,,O,0,25.82146,-80.23747
+6052,Miami Arts Studio 6-12 at Zelda Glazer,15015 SW 24th St,Miami-Dade,FL,33185,305-485-2323,,S,PK6-12,25.7441,-80.43913
+7202,Miami Beach Adult & Community Education Center,1424 Drexel Ave,Miami Beach,FL,33139,305-531-0451,,O,0,25.78641,-80.13327
+0761,Miami Beach Fienberg/Fisher K-8 Center,1420 Washington Ave,Miami Beach,FL,33139,305-531-0419,,E,PK-8,25.78619,-80.13233
+6541,Miami Beach Nautilus Middle,4301 N Michigan Ave,Miami Beach,FL,33140,305-532-3481,,M,6-8,25.81533,-80.13455
+7201,Miami Beach Senior High,2231 Prairie Ave,Miami Beach,FL,33139,305-532-4515,,S,9-12,25.79875,-80.13311
+5091,Miami Beach South Pointe Elementary,1050 4th St,Miami Beach,FL,33139,305-531-5437,,E,PK-5,25.77324,-80.13925
+7231,Miami Carol City Senior High,3301 Miami Gardens Dr,Miami Gardens,FL,33056,305-621-5681,,S,9-12,25.94091,-80.25738
+7251,Miami Central Senior High,1781 NW 95th St,Miami-Dade,FL,33147,305-696-4161,,S,9-12,25.8617,-80.2283
+7272,Miami Coral Park Adult Education,8865 SW 16th St,Miami-Dade,FL,33165,305-226-6565,,O,0,25.75528,-80.34052
+7271,Miami Coral Park Senior High,8865 SW 16th St,Miami-Dade,FL,33165,305-226-6565,,S,9-12,25.75531,-80.3389
+7301,Miami Edison Senior High,6161 NW 5th Ct,Miami,FL,33127,305-751-7337,,S,9-12,25.83181,-80.20489
+3241,Miami Gardens Elementary,4444 NW 195th St,Miami Gardens,FL,33055,305-625-5321,,E,PK-5,25.95033,-80.27531
+3261,Miami Heights Elementary,17661 SW 117th Ave,Miami-Dade,FL,33177,305-238-3602,,E,PK-5,25.60417,-80.38028
+7342,Miami Jackson Adult Education,1751 NW 36th St,Miami,FL,33142,305-634-2621,,O,0,25.81028,-80.22614
+7341,Miami Jackson Senior High,1751 NW 36th St,Miami,FL,33142,305-634-2621,,S,9-12,25.81028,-80.22614
+7361,Miami Killian Senior High,10655 SW 97th Ave,Miami-Dade,FL,33176,305-271-3311,,S,9-12,25.67009,-80.35078
+8901,Miami Lakes Educational Center and Technical College,5780 NW 158th St,Miami Lakes,FL,33014,305-557-1100,,O,0,25.91624,-80.29495
+7391,Miami Lakes Educational Center Senior High,5780 NW 158th St,Miami Lakes,FL,33014,305-557-1100,,S,9-12,25.91604,-80.29404
+3281,Miami Lakes Elementary PLC-L,14250 NW 67th Ave,Miami Lakes,FL,33014,305-822-7757,,PLC,0,25.90297,-80.31059
+3281,Miami Lakes K-8 Center,14250 NW 67th Ave,Miami Lakes,FL,33014,305-822-7757,,E,PK-8,25.90304,-80.30891
+6501,Miami Lakes Middle,6425 Miami Lakeway N,Miami Lakes,FL,33014,305-557-3900,,M,6-8,25.91837,-80.30579
+7631,Miami MacArthur South SH,13990 SW 264th St,Miami-Dade,FL,33032,305-258-7200,,ALT,6-12,25.52142,-80.41794
+7381,Miami Norland Senior High,1193 NW 193rd St,Miami Gardens,FL,33169,305-653-1416,,S,9-12,25.95132,-80.21913
+7411,Miami Northwestern Senior High,1100 NW 71st St,Miami,FL,33150,305-836-0991,,S,9-12,25.83898,-80.21392
+7432,Miami Palmetto Adult Education,7431 SW 120th St,Miami,FL,33156,305-235-1360,,O,0,25.6608,-80.3157
+7431,Miami Palmetto Senior High,7431 SW 120th St,Miami,FL,33156,305-235-1360,,S,9-12,25.6608,-80.3157
+7462,Miami Senior Adult Education,2450 SW 1st St,Miami,FL,33135,305-649-9800,,O,0,25.77094,-80.23595
+7461,Miami Senior High,2450 SW 1st St,Miami,FL,33135,305-649-9800,,S,9-12,25.77094,-80.23595
+3341,Miami Shores Elementary,10351 NE 5th Ave,Miami Shores,FL,33138,305-758-5525,,E,PK-5,25.87037,-80.18724
+7731,Miami Southridge Senior High,19355 SW 114th Ave,Miami-Dade,FL,33157,305-238-6110,,S,9-12,25.58646,-80.3762
+7512,Miami Springs Adult Education,751 Dove Ave,Miami Springs,FL,33166,305-885-3585,,O,0,25.83038,-80.29467
+3381,Miami Springs Elementary,51 Park St,Miami Springs,FL,33166,305-888-4558,,E,PK-5,25.8229,-80.28457
+6521,Miami Springs Middle,150 S Royal Poinciana Blvd,Miami Springs,FL,33166,305-888-6457,,M,6-8,25.81489,-80.27353
+7511,Miami Springs Senior High,751 Dove Ave,Miami Springs,FL,33166,305-885-3585,,S,9-12,25.83038,-80.29467
+7532,Miami Sunset Adult Education,13125 SW 72nd St,Miami-Dade,FL,33183,305-365-4255,,O,0,25.70156,-80.40421
+7531,Miami Sunset Senior High,13125 SW 72nd St,Miami-Dade,FL,33183,305-385-4255,,S,9-12,25.70156,-80.40421
+7001,Miami-Dade Online Academy,1501 NE 2nd Ave,Miami,FL,33132,305-995-1257,,S,K-12,25.78977,-80.19044
+7004,Miami-Dade Virtual School,560 NW 151st St,Miami-Dade,FL,33169,305953-5747, ,,6-12,25.91278,-80.2088
+3501,Morningside K-8 Center,6620 NE 5th Ave,Miami,FL,33138,305-758-6741,,E,PK-8,25.83672,-80.18656
+3581,Myrtle Grove K-8 Center,3125 NW 176th St,Miami Gardens,FL,33056,305-624-8431,,E,PK-8,25.93443,-80.25223
+5971,Nathan B. Young Elementary,14120 NW 24th Ave,Opa-locka,FL,33054,305-685-7204,,E,PK-5,25.90396,-80.23995
+8211,Nathaniel Traz Powell Football Stadium,11380 NW 27th Ave,Miami-Dade,FL,33167,305-688-5490,,O,0,25.87227,-80.24712
+3661,Natural Bridge Elementary,1650 NE 141st St,North Miami,FL,33181,305-891-8649,,E,PK-5,25.90551,-80.16542
+0921,Neva King Cooper Educational Center,151 NW 5th St,Homestead,FL,33030,305-247-4307,,SPC,PK-12,25.47452,-80.48044
+7777,New Opportunity Educational Center,6300 NW 27th Ave,Miami-Dade,FL,33147,(305)626-3877, ,,6-12,25.83249,-80.24169
+7901,New World School of the Arts,25 NE 2nd St,Miami,FL,33132,305-237-3135,,S,9-12,25.77638,-80.19321
+3701,Norland Elementary,19340 NW 8th Ct,Miami Gardens,FL,33169,305-652-6074,,E,PK-5,25.95185,-80.21636
+6571,Norland Middle,1235 NW 192nd Ter,Miami Gardens,FL,33169,305-653-1210,,M,6-8,25.95095,-80.22267
+0125,Norma Butler Bossard Elementary,15950 SW 144th St,Miami-Dade,FL,33196,305-254-5200,,E,PK-5,25.63201,-80.45261
+0092,Norman S. Edelcup/Sunny Isles Beach K-8,201 182nd Dr,Sunny Isles Beach,FL,33160,305-933-6161,,E,K-8,25.94474,-80.12317
+3741,North Beach Elementary,4100 Prairie Ave,Miami Beach,FL,33140,305-531-7666,,E,PK-5,25.81447,-80.13067
+3821,North County K-8 Center,3250 NW 207th St,Miami Gardens,FL,33056,305-624-9648,,E,PK-8,25.964,-80.25479
+5131,North Dade Center For Modern Languages Elementary,1840 NW 157th St,Miami Gardens,FL,33054,305-625-3885,,E,K-5,25.91635,-80.22964
+6591,North Dade Center Middle,1840 NW 157th St,Miami Gardens,FL,33054,305-624-8415,,M,6-8,25.91677,-80.23161
+3861,North Glade Elementary,5000 NW 177th St,Miami-Dade,FL,33055,305-624-3608,,E,PK-5,25.93388,-80.28294
+3901,North Hialeah Elementary,4251 E 5th Ave,Hialeah,FL,33013,305-681-4611,,E,PK-5,25.86117,-80.27242
+7592,North Miami Adult Education,13110 NE 8th Ave,North Miami,FL,33161,305-981-6774,,O,0,25.89694,-80.1833
+7541,North Miami Beach Senior High,1247 NE 167th St,Miami-Dade,FL,33162,305-949-8381,,S,9-12,25.92969,-80.17532
+3941,North Miami Elementary,655 NE 145th St,North Miami,FL,33161,305-949-0998,,E,PK-5,25.90889,-80.18619
+6631,North Miami Middle,700 NE 137th St,North Miami,FL,33161,305-891-5611,,M,6-8,25.90056,-80.18458
+7591,North Miami Senior High,13110 NE 8th Ave,North Miami,FL,33161,305-891-6590,,S,9-12,25.89694,-80.1833
+8231,North Miami Stadium - Ronald L Book Athletic Stadium,2555 NE 151st St,North Miami,FL,33160,305-895-9840,,O,0,25.91648,-80.14872
+9571,North Region Office,733 E 57th St,Hialeah,FL,33013,305-687-6565,,A,0,25.87494,-80.2683
+3981,North Twin Lakes Elementary,625 W 74th Pl,Hialeah,FL,33014,305-822-0721,,E,PK-5,25.89026,-80.29628
+4001,Norwood Elementary,19810 NW 14th Ct,Miami Gardens,FL,33169,305-653-0068,,E,PK-5,25.95577,-80.22747
+4021,Oak Grove Elementary,15640 NE 8th Ave,Miami-Dade,FL,33162,305-945-1511,,E,PK-5,25.9188,-80.18412
+4061,Ojus Elementary,18600 W Dixie Hwy,Miami-Dade,FL,33180,305-931-4881,,E,PK-5,25.94785,-80.14934
+2521,Oliver Hoover Elementary,9050 Hammocks Blvd,Miami-Dade,FL,33196,305-385-4382,,E,PK-5,25.68163,-80.43632
+2521,Oliver Hoover Elementary PLC-U,15700 SW 96th St,Miami-Dade,FL,33196,305-383-0915,,PLC,0,25.67673,-80.44975
+4091,Olympia Heights Elementary,9797 SW 40th St,Miami-Dade,FL,33165,305-221-3821,,E,PK-5,25.73328,-80.35339
+4171,Orchard Villa Elementary,5720 NW 13th Ave,Miami,FL,33142,305-754-0607,,E,PK-5,25.82778,-80.21905
+8012,Pace Center for Girls,1400 NW 36th St,Miami-Dade,FL,33142,786-254-2460,,O,6-12,25.8094,-80.22019
+4241,Palm Lakes Elementary,7450 W 16th Ave,Hialeah,FL,33014,305-823-6970,,E,PK-5,25.89043,-80.3163
+4261,Palm Springs Elementary,6304 E 1st Ave,Hialeah,FL,33013,305-822-0911,,E,PK-5,25.88001,-80.28103
+6681,Palm Springs Middle,1025 W 56th St,Hialeah,FL,33012,305-821-2460,,M,6-8,25.87382,-80.30521
+4281,Palm Springs North Elementary,17615 NW 82nd Ave,Miami-Dade,FL,33015,305-821-4631,,E,PK-5,25.93463,-80.33397
+4281,Palm Springs North Elementary PLC-X,17615 NW 82nd Ave,Miami-Dade,FL,33015,305-817-8910,,PLC,0,25.93463,-80.33397
+4221,Palmetto Elementary,12401 SW 74th Ave,Pinecrest,FL,33156,305-238-4306,,E,PK-5,25.65493,-80.31385
+6701,Palmetto Middle,7351 SW 128th St,Pinecrest,FL,33156,305-238-3911,,M,6-8,25.65233,-80.3126
+4301,Parkview Elementary,17631 NW 20th Ave,Miami Gardens,FL,33056,305-625-1591,,E,PK-5,25.93554,-80.23444
+8901,Parkway Educational Complex,2349 NW 175th St,Miami Gardens,FL,33056,305-624-9613,,O,0,25.93445,-80.23972
+4341,Parkway Elementary,1320 NW 188th St,Miami Gardens,FL,33169,305-653-0066,,E,PK-5,25.94543,-80.22386
+1441,Paul Laurence Dunbar K-8 Center,505 NW 20th St,Miami,FL,33127,305-573-2344,,E,PK-8,25.79642,-80.20341
+6041,Paul W. Bell Middle,11800 NW 2nd St,Miami-Dade,FL,33182,305-220-2075,,M,6-8,25.76911,-80.38806
+5931,Phillis Wheatley Elementary,1801 NW 1st Pl,Miami,FL,33136,305-573-2638,,E,PK-5,25.79353,-80.19817
+3431,Phyllis Ruth Miller Elementary,840 NE 87th St,Miami,FL,33138,305-756-3800,,E,PK-5,25.85502,-80.18062
+4441,Pine Lake Elementary,16700 SW 109th Ave,Miami-Dade,FL,33157,305-233-7018,,E,PK-5,25.61382,-80.37017
+4461,Pine Villa Elementary,21799 SW 117th Ct,Miami-Dade,FL,33170,305-258-5366,,E,PK-5,25.56442,-80.38093
+4421,Pinecrest Elementary,10250 SW 57th Ave,Pinecrest,FL,33156,305-667-5579,,E,PK-5,25.67619,-80.2848
+4501,Poinciana Park Elementary,6745 NW 23rd Ave,Miami-Dade,FL,33147,305-691-5640,,E,PK-5,25.83601,-80.23487
+6741,Ponce de Leon Middle,5801 Augusto St,Coral Gables,FL,33146,305-661-1611,,M,6-8,25.71643,-80.27195
+9013,Pre-K Intervention,5555 SW 93rd Ave,Miami-Dade,FL,33165,305-271-5701,,SPC,PK,25.71688,-80.34454
+4081,Primary Learning Center,"1500 Biscayne Blvd, #101",Miami,FL,33132,305-523-8390, ,,PK-4,25.78978,-80.18951
+4541,Rainbow Park Elementary,15355 NW 19th Ave,Miami Gardens,FL,33054,305-688-4631,,E,PK-5,25.91464,-80.23187
+4581,Redland Elementary,24501 SW 162nd Ave,Miami-Dade,FL,33031,305-247-8141,,E,PK-5,25.53914,-80.45319
+6761,Redland Middle,16001 SW 248th St,Miami-Dade,FL,33031,305-247-6112,,M,6-8,25.53672,-80.45208
+4611,Redondo Elementary,18480 SW 304th St,Homestead,FL,33030,305-247-5943,,E,PK-3,25.48335,-80.49146
+6781,Richmond Heights Middle,15015 SW 103rd Ave,Miami-Dade,FL,33176,305-238-2316,,M,6-8,25.62968,-80.3596
+4681,Riverside Elementary,1190 SW 2nd St,Miami,FL,33130,305-547-1520,,E,PK-5,25.7714,-80.21366
+6801,Riviera Middle,10301 SW 48th St,Miami-Dade,FL,33165,305-226-4286,,M,6-8,25.72337,-80.36168
+8911,Robert Morgan Educational Center and Technical College,18180 SW 122nd Ave,Miami-Dade,FL,33177,305-253-9920,,O,0,25.59915,-80.39007
+7371,Robert Morgan Educational Center Senior High,18180 SW 122nd Ave,Miami-Dade,FL,33177,305-253-9920,,S,9-12,25.59915,-80.39007
+8151,Robert Renick Education Center,2201 NW 207th St,Miami Gardens,FL,33056,305-624-1171,,SPC,PK-12,25.96501,-80.23892
+3541,Robert Russa Moton Elementary,18050 Homestead Ave,Miami-Dade,FL,33157,305-235-3612,,E,K-5,25.60216,-80.35587
+4721,Rockway Elementary,2790 SW 93rd Ct,Miami-Dade,FL,33165,305-221-1192,,E,PK-5,25.74404,-80.34637
+6821,Rockway Middle,9393 SW 29th Ter,Miami-Dade,FL,33165,305-221-8212,,M,6-8,25.74247,-80.34768
+7241,Ronald W. Reagan/Doral Senior High,8600 NW 107th Ave,Doral,FL,33178,305-805-1900,,S,9-12,25.85259,-80.37145
+4741,Royal Green Elementary,13047 SW 47th St,Miami-Dade,FL,33175,305-221-4452,,E,PK-5,25.7223,-80.40551
+4761,Royal Palm Elementary,4200 SW 112th Ct,Miami-Dade,FL,33165,305-221-7961,,E,PK-5,25.72923,-80.37667
+6121,Ruben Dario Middle,350 NW 97th Ave,Miami-Dade,FL,33172,305-226-0179,,M,6-8,25.77154,-80.35436
+0241,Ruth K. Broad/Bay Harbor K-8 Center,1155 93rd St,Bay Harbor Islands,FL,33154,305-865-7912,,E,PK-8,25.88414,-80.13211
+8181,Ruth Owens Kruse Educational Center,11001 SW 76th St,Miami-Dade,FL,33173,305-270-8699,,SPC,PK-12,25.69832,-80.3729
+4841,Santa Clara Elementary,1051 NW 29th Ter,Miami,FL,33127,305-635-1417,,E,PK-5,25.80463,-80.21255
+9015,School Board Adm - Annex,1500 Biscayne Blvd,Miami,FL,33132,305-995-1106,,A,0,25.78977,-80.18951
+9015,School Board Adm - Main Building,1450 NE 2nd Ave,Miami,FL,33132,305-995-1106,,A,0,25.78904,-80.19102
+9015,School Board Adm -Garage,115 NE 15th St,Miami,FL,33132,305-995-4576,,A,0,25.79026,-80.19117
+7551,School For Advanced Studies Homestead,500 College Ter,Homestead,FL,33030,305-237-5062,,S,11-12,25.47421,-80.47443
+7061,School For Advanced Studies North,11380 NW 27th Ave,Miami-Dade,FL,33167,305-237-1089,,S,11-12,25.87793,-80.24566
+7091,School For Advanced Studies South,11011 SW 104th St,Miami-Dade,FL,33176,305-237-0510,,S,11-12,25.67516,-80.37414
+7261,School For Advanced Studies West,3800 NW 115th Ave,Doral,FL,33178,305-237-8000,,S,11-12,25.80833,-80.38456
+7041,School For Advanced Studies Wolfson,25 NE 2nd St,Miami,FL,33132,305-237-7270,,S,11-12,25.77638,-80.19321
+4881,Scott Lake Elementary,1160 NW 175th St,Miami Gardens,FL,33169,305-624-1443,,E,PK-5,25.93429,-80.22
+4921,Seminole Elementary,121 SW 78th Pl,Miami-Dade,FL,33144,305-261-7071,,E,PK-5,25.76924,-80.32337
+4961,Shadowlawn Elementary,149 NW 49th St,Miami,FL,33127,305-758-3673,,E,PK-5,25.82096,-80.19877
+5001,Shenandoah Elementary,1023 SW 21st Ave,Miami,FL,33135,305-643-4433,,E,PK-5,25.76279,-80.22818
+6841,Shenandoah Middle,1950 SW 19th St,Miami,FL,33145,305-856-8282,,M,6-8,25.75423,-80.227
+5041,Silver Bluff Elementary,2609 SW 25th Ave,Miami,FL,33133,305-856-5197,,E,PK-5,25.74345,-80.23551
+5121,Snapper Creek Elementary,10151 SW 64th St,Miami-Dade,FL,33173,305-271-2111,,E,PK-5,25.70893,-80.35788
+5003,South Dade Middle,29100 SW 194th Ave,Miami-Dade,FL,33030,305-224-5200,,M,4-8,25.49602,-80.50638
+7701,South Dade Senior High,28401 SW 167th Ave,Miami-Dade,FL,33030,305-247-4244,,S,9-12,25.50137,-80.46048
+8981,South Dade Skill Center,28300 SW 152nd Ave,Miami-Dade,FL,33033,305-247-7839,,O,0,25.50385,-80.43736
+7702,South Dade Technical College,109 NE 8th St,Homestead,FL,33030,305-248-5723,,O,0,25.47748,-80.47527
+5201,South Hialeah Elementary,265 E 5th St,Hialeah,FL,33010,305-885-4556,,E,PK-5,25.82674,-80.27662
+5281,South Miami Heights Elementary,12231 SW 190th Ter,Miami-Dade,FL,33177,305-238-6610,,E,PK-5,25.59033,-80.38958
+5241,South Miami K-8 Center,6800 SW 60th St,South Miami,FL,33143,305-667-8847,,E,PK-8,25.71397,-80.30592
+6881,South Miami Middle,6750 SW 60th St,South Miami,FL,33143,305-661-3481,,M,6-8,25.71445,-80.30351
+7721,South Miami Senior High,6856 SW 53rd St,Miami-Dade,FL,33155,305-666-5871,,S,9-12,25.72074,-80.30529
+9575,South Region Office,18180 SW 122nd Ave,Miami-Dade,FL,33177,305-252-3041,,A,0,25.59915,-80.39007
+9575,South Region Office Annex,9040 SW 79th Ave,Miami-Dade,FL,33156,305-595-7022,,A,0,25.68584,-80.32358
+5321,Southside Preparatory Academy,45 SW 13th St,Miami,FL,33130,305-371-3311,,E,PK-8,25.76188,-80.19444
+7742,Southwest Miami Adult Center,8855 SW 50th Ter,Miami-Dade,FL,33165,305-274-0181,,O,0,25.72204,-80.33815
+7741,Southwest Miami Senior High,8855 SW 50th Ter,Miami-Dade,FL,33165,305-274-0181,,S,9-12,25.72204,-80.33815
+6861,Southwood Middle,16301 SW 80th Ave,Palmetto Bay,FL,33157,305-251-5361,,M,6-8,25.61952,-80.32207
+2191,Spanish Lake Elementary,7940 NW 194th St,Miami-Dade,FL,33015,305-816-0300,,E,PK-5,25.94904,-80.3317
+5361,Springview Elementary,1122 Bluebird Ave,Miami Springs,FL,33166,305-885-6466,,E,PK-5,25.83323,-80.30309
+9181,Stores And Distribution Complex,7001 SW 4th St,Miami,FL,33144,786-275-0602,,A,0,25.7688,-80.30861
+5401,Sunset Elementary,5120 SW 72nd St,Miami-Dade,FL,33143,305-661-8527,,E,PK-5,25.70438,-80.27566
+5421,Sunset Park Elementary,10235 SW 84th St,Miami-Dade,FL,33173,305-279-3222,,E,PK-5,25.69141,-80.358
+5431,Sweetwater Elementary,10655 SW 4th St,Sweetwater,FL,33174,305-559-1101,,E,PK-5,25.76537,-80.36735
+5441,Sylvania Heights Elementary,5901 SW 16th St,West Miami,FL,33155,305-266-3511,,E,PK-5,25.75711,-80.29249
+8016,TAP - Teenage Parent Program,2349 NW 175th St,Miami Gardens,FL,33056,305-626-3866,,E,PK,25.93445,-80.23972
+7029,Terra Environmental Research Institute Senior High,11005 SW 84th St,Miami-Dade,FL,33173,305-412-5800,,S,9-12,25.69261,-80.37026
+2531,Thena C. Crowder Early Childhood Diagnostic SP ED,757 NW 66th St,Miami,FL,33150,305-836-0012,,SPC,PK,25.83546,-80.20989
+6281,Thomas Jefferson Biscayne Gardens K-8 Academy,525 NW 147th St,Miami-Dade,FL,33168,305-681-7481,,E,PK-8,25.90989,-80.20812
+8021,Title I Migrant Education Program,28205 SW 125th Ave,Homestead,FL,33033,305-258-4115,,E,PK,25.50529,-80.39395
+3051,Toussaint L'ouverture Elementary,120 NE 59th St,Miami,FL,33137,305-758-2600,,E,PK-5,25.82946,-80.19389
+9230,Transportation Center Administrative Offices,15401 SW 117th Ave,Miami-Dade,FL,33177,305-234-3365,,A,0,25.62436,-80.38095
+9231,Transportation Center Central East,7011 SW 4th St,Miami,FL,33144,305-227-1995,,A,0,25.76729,-80.3093
+9237,Transportation Center Central West,13775 NW 6th St,Miami-Dade,FL,33182,305-227-1995,,A,0,25.77325,-80.41842
+9239,Transportation Center John H Schee,2755 NW 122nd St,Miami-Dade,FL,33167,305-681-1576,,A,0,25.8861,-80.2439
+9232,Transportation Center North,16150 NW 42nd Ave,Miami Gardens,FL,33054,305-625-9086,,A,0,25.9201,-80.2688
+9234,Transportation Center Northeast,5901 NW 27th Ave,Miami-Dade,FL,33142,305-633-6909,,A,0,25.82918,-80.24076
+9236,Transportation Center Northwest,9900 NW South River Drive,Medley,FL,33166,305-887-2383,,A,0,25.86323,-80.3373
+9233,Transportation Center South,660 SW 3rd Ave,Florida City,FL,33034,305-248-3380,,A,0,25.44154,-80.47878
+9235,Transportation Center Southwest,15501 SW 117th Ave,Miami-Dade,FL,33177,305-234-0046,,A,0,25.62386,-80.38072
+9292,Transportation Center Vehicle Maintenance Office,11601 SW 160th St,Miami-Dade,FL,33177,305-234-0849,,A,0,25.62115,-80.38011
+9292,Transportation Redland Vehicle Maintenance,24600 SW 159th Ave,Miami-Dade,FL,33031,(305) 248-4925,,A,0,25.53711,-80.44975
+5481,Treasure Island Elementary,7540 E Treasure Dr,North Bay Village,FL,33141,305-865-3141,,E,PK-5,25.84661,-80.14668
+5521,Tropical Elementary,4545 SW 104th Ave,Miami-Dade,FL,33165,305-221-0284,,E,PK-5,25.72534,-80.36307
+5601,Twin Lakes Elementary,6735 W 5TH Pl,Hialeah,FL,33012,305-822-0770,,E,PK-5,25.88315,-80.29464
+9271,Vacant Property,2780 NW 87th St,Miami-Dade,FL,33147,305-835-1000,,A,0,25.85278,-80.24482
+0401,Van E. Blanton Elementary,10327 NW 11th Ave,Miami-Dade,FL,33150,305-696-9241,,E,PK-5,25.86971,-80.21576
+5641,Village Green Elementary,12265 SW 34th St,Miami-Dade,FL,33175,305-226-0441,,E,PK-5,25.7373,-80.39231
+5671,Vineland K-8 Center,8455 SW 119th St,Miami-Dade,FL,33156,305-238-7931,,E,PK-8,25.66016,-80.33141
+2441,Virginia A. Boone/Highland Oaks Elementary,20500 NE 24th Ave,Miami-Dade,FL,33180,305-931-1770,,E,PK-5,25.96576,-80.15471
+6901,W. R. Thomas Middle,13001 SW 26th St,Miami-Dade,FL,33175,305-995-3800,,M,6-8,25.74479,-80.40559
+0561,W.J. Bryan Elementary,1201 NE 125th St,North Miami,FL,33161,305-891-0602,,E,PK-5,25.89129,-80.17346
+3111,Wesley Matthews Elementary,12345 SW 18th Ter,Miami-Dade,FL,33175,305-222-8150,,E,PK-5,25.75133,-80.39594
+2371,West Hialeah Gardens Elementary,11990 NW 92nd Ave,Hialeah Gardens,FL,33018,305-818-4000,,E,PK-5,25.88184,-80.34811
+5791,West Homestead K-8 Center,1550 SW 6th St,Homestead,FL,33030,305-248-0812,,E,PK-8,25.46397,-80.49534
+3001,West Lakes Preparatory Academy,8435 W 36th Ave ,Hialeah,FL,33018,305-826-6104,,E,PK-8,25.89957,-80.35524
+6961,West Miami Middle,7525 SW 24th St,Miami-Dade,FL,33155,305-261-8383,,M,6-8,25.74851,-80.31812
+7049,Westland Hialeah Senior High,4000 W 18th Ave,Hialeah,FL,33012,305-818-3000,,S,9-12,25.85792,-80.31894
+5951,Whispering Pines Elementary,18929 SW 89th Rd,Cutler Bay,FL,33157,305-238-7382,,E,PK-5,25.591,-80.33577
+0771,William A. Chapman Elementary,27190 SW 140th Ave,Miami-Dade,FL,33032,305-245-1055,,E,PK-5,25.51498,-80.41716
+7602,William H. Turner Technical Adult Education,10151 NW 19th Ave,Miami-Dade,FL,33147,305-691-8324,,O,0,25.86809,-80.22919
+7601,William H. Turner Technical Arts High School,10151 NW 19th Ave,Miami-Dade,FL,33147,305-691-8324,,S,9-12,25.86717,-80.22929
+2891,William Lehman Elementary,10990 SW 113th Pl,Miami-Dade,FL,33176,305-273-2140,,E,PK-5,25.66708,-80.37984
+5961,Winston Park K-8 Center,13200 SW 79th St,Miami-Dade,FL,33183,305-386-7622,,E,PK-8,25.69568,-80.40636
+7056,Young Men's Preparatory Academy Senior High,3001 NW 2nd Ave,Miami,FL,33127,305-571-1111,,S,6-12,25.80524,-80.19904
+7055,Young Women's Preparatory Academy,1150 SW 1st St,Miami,FL,33130,305-575-1200,,S,6-12,25.77238,-80.21396
+2511,Zora Neale Hurston Elementary,13137 SW 26th St,Miami-Dade,FL,33175,305-222-8152,,E,PK-5,25.74704,-80.40725
