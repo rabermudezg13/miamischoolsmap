@@ -1,6 +1,5 @@
 import csv
 import json
-import time
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -16,64 +15,60 @@ params = {
     "f": "json",
 }
 url = f"{SOURCE_URL}?{urllib.parse.urlencode(params)}"
+request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
 
-payload = None
-last_error = None
-for attempt in range(3):
-    try:
-        request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 MiamiSchoolsMap/1.0"})
-        with urllib.request.urlopen(request, timeout=90) as response:
-            payload = json.load(response)
-        break
-    except Exception as error:
-        last_error = error
-        if attempt < 2:
-            time.sleep(5 * (attempt + 1))
+with urllib.request.urlopen(request, timeout=60) as response:
+    payload = json.load(response)
 
-if payload is None:
-    raise RuntimeError(f"Unable to download school data: {last_error}")
 if "error" in payload:
     raise RuntimeError(payload["error"])
 
 fields = [
-    "id", "name", "campus", "address", "unit", "city", "state", "zipcode",
-    "phone", "email", "type", "grades", "capacity", "enrollment", "region",
-    "latitude", "longitude", "source_url"
+    "id", "name", "address", "city", "state", "zipcode", "phone",
+    "email", "type", "grades", "latitude", "longitude"
 ]
+
+
+def get_value(attrs, *names):
+    lookup = {str(key).lower(): value for key, value in attrs.items()}
+    for name in names:
+        value = lookup.get(name.lower())
+        if value not in (None, ""):
+            return value
+    return ""
+
 
 rows = []
 for feature in payload.get("features", []):
     attrs = feature.get("attributes", {})
     geometry = feature.get("geometry", {})
-    latitude = attrs.get("lat") or geometry.get("y")
-    longitude = attrs.get("lon") or geometry.get("x")
-    if latitude is None or longitude is None:
+
+    latitude = get_value(attrs, "LAT", "LATITUDE") or geometry.get("y")
+    longitude = get_value(attrs, "LON", "LONGITUDE") or geometry.get("x")
+    name = get_value(attrs, "NAME", "SCHOOL_NAME", "SCH_NAME")
+
+    if not name or latitude in (None, "") or longitude in (None, ""):
         continue
+
     rows.append({
-        "id": attrs.get("id", ""),
-        "name": attrs.get("name", ""),
-        "campus": attrs.get("campus", ""),
-        "address": attrs.get("address", ""),
-        "unit": attrs.get("unit", ""),
-        "city": attrs.get("city", ""),
+        "id": get_value(attrs, "ID", "OBJECTID", "FID"),
+        "name": name,
+        "address": get_value(attrs, "ADDRESS", "STREET", "FULL_ADDRESS"),
+        "city": get_value(attrs, "CITY", "MUNICIPALITY"),
         "state": "FL",
-        "zipcode": attrs.get("zipcode", ""),
-        "phone": attrs.get("phone", ""),
-        "email": attrs.get("email", ""),
-        "type": attrs.get("type", ""),
-        "grades": attrs.get("grades", ""),
-        "capacity": attrs.get("capacity", ""),
-        "enrollment": attrs.get("enrollmnt", ""),
-        "region": attrs.get("region", ""),
+        "zipcode": get_value(attrs, "ZIPCODE", "ZIP", "ZIP_CODE"),
+        "phone": get_value(attrs, "PHONE", "TELEPHONE"),
+        "email": get_value(attrs, "EMAIL"),
+        "type": get_value(attrs, "TYPE", "SCHOOL_TYPE", "SCH_TYPE"),
+        "grades": get_value(attrs, "GRADES", "GRADE", "GRADE_LEVEL"),
         "latitude": latitude,
         "longitude": longitude,
-        "source_url": SOURCE_URL,
     })
 
-if not rows:
-    raise RuntimeError("The ArcGIS service returned no schools")
-
 rows.sort(key=lambda row: (str(row["name"]).lower(), str(row["id"])))
+
+if not rows:
+    raise RuntimeError("No schools were returned by the Miami-Dade GIS service")
 
 with OUTPUT.open("w", newline="", encoding="utf-8-sig") as csvfile:
     writer = csv.DictWriter(csvfile, fieldnames=fields)
