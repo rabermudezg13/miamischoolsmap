@@ -4,7 +4,7 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-SOURCE_URL = "https://arcgis.gdsc.miami.edu/arcgis/rest/services/mdc_public_schools/FeatureServer/1/query"
+SOURCE_URL = "https://services.arcgis.com/8Pc9XBTAsYuxx9Ny/arcgis/rest/services/SchoolSite_gdb/FeatureServer/0/query"
 OUTPUT = Path("schools.csv")
 
 params = {
